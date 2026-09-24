@@ -20,7 +20,7 @@ Trabalho no ponto onde **mídia paga encontra engenharia**. Gerencio Meta Ads e 
 - 🔁 Automação *automation-first* com **n8n**, **Claude Code**, **MCP** e **Supabase**
 - 📡 Rastreamento server-side: **Meta Conversions API**, deduplicação de eventos e atribuição de vendas no WhatsApp
 - 🛠️ Infra própria: **Docker Swarm + Traefik** em VPS Hetzner
-- 🇧🇷 Minas Gerais, Brasil
+- 🇧🇷 São Paulo, Brasil
 
 ---
 
@@ -60,13 +60,13 @@ Agente SDR que atende e qualifica leads no WhatsApp, com **API dedicada + dashbo
 ---
 
 ### 🔥 Robô de ofertas para grupo VIP no WhatsApp
-Automação no n8n que busca ofertas em **Mercado Livre, Shopee, Amazon e Nuvemshop** e publica automaticamente em um grupo VIP de WhatsApp de uma loja de decoração.
+Automação no n8n que busca ofertas em **Mercado Livre, Shopee, Amazon e Nuvemshop** e publica automaticamente em um grupo VIP de WhatsApp.
 
 `n8n` `OAuth2` `APIs de marketplaces` `WhatsApp`
 
 ---
 
-### 🛋️ Padrão de SEO para catálogo de móveis
+### 🛋️ Padrão de SEO para catálogo
 Framework editorial de **título SEO, meta description e descrição de produto** para loja de móveis premium na Nuvemshop, com regras anti-canibalização (termo de volume na categoria, long tail no produto) e entrega em HTML pronto para o editor.
 
 `SEO on-page` `Nuvemshop` `Copywriting`
