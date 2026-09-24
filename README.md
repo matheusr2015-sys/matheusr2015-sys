@@ -6,17 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://atribui.com"><img src="https://img.shields.io/badge/atribui.com-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://jerseyscult.com"><img src="https://img.shields.io/badge/FlowPerform-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheus-rodrigues-1a74a41a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:matheusr2015@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Trabalho no ponto onde **mídia paga encontra engenharia**. Gerencio Meta Ads e Google Ads para clientes de moda, móveis, veículos, turismo e games — e, quando a ferramenta certa não existe, eu construo.
+Trabalho no ponto onde **mídia paga encontra engenharia**. Gerencio Meta Ads e Google Ads para empresas de moda, móveis e decoração, veículos, turismo e games — e, quando a ferramenta certa não existe, eu construo.
 
 - 🎯 Gestão de performance em e-commerce e negócio local (Meta Ads, Google Ads)
 - 🔁 Automação *automation-first* com **n8n**, **Claude Code**, **MCP** e **Supabase**
@@ -26,22 +24,22 @@ Trabalho no ponto onde **mídia paga encontra engenharia**. Gerencio Meta Ads e 
 
 ---
 
-## 🚀 Cases em destaque
+## 🚀 O que eu construo
 
-### 📊 [atribui.com](https://atribui.com) — SaaS de atribuição de vendas no WhatsApp
+### 📊 SaaS de atribuição de vendas no WhatsApp
 > *Problema:* negócios que vendem pelo WhatsApp não sabem qual anúncio gerou a venda — o Meta otimiza no escuro.
 
-SaaS próprio que conecta o inbox do WhatsApp à **Meta Conversions API**: gatilhos na conversa viram eventos de `Purchase` atribuídos à campanha de origem. Hoje é a fonte de verdade de vendas de clientes reais, como a BK Ride Motors.
+Plataforma própria que conecta o inbox do WhatsApp à **Meta Conversions API**: gatilhos na conversa viram eventos de `Purchase` atribuídos à campanha de origem. Hoje é a fonte de verdade de vendas de clientes em produção.
 
-`Next.js 16` `React 19` `TypeScript` `Tailwind 4` `PostgreSQL` `Prisma` `shadcn/ui` `Evolution API` `Meta CAPI` `Asaas` `Docker Swarm` `Traefik`
+`Next.js 16` `React 19` `TypeScript` `Tailwind 4` `PostgreSQL` `Prisma` `shadcn/ui` `Evolution API` `Meta CAPI` `Docker Swarm` `Traefik`
 
-- Monólito full-stack (App Router, Server Actions, route handlers) com cobrança de assinaturas via Asaas
+- Monólito full-stack (App Router, Server Actions, route handlers) com cobrança recorrente de assinaturas
 - Deploy em Docker Swarm com TLS automático e migrations no boot
 - Auditoria de segurança em fases (auditar → priorizar → corrigir)
 
 ---
 
-### 🤖 Agente SDR com IA — Agência Pé na Estrada (turismo)
+### 🤖 Agente SDR com IA para agência de turismo
 > *Problema:* alto volume de leads de viagens em grupo sem capacidade de qualificação manual.
 
 Agente SDR que atende e qualifica leads no WhatsApp, com **API dedicada + dashboard** de acompanhamento com autenticação, integrado a CRM e ao stack de mensageria.
@@ -50,7 +48,7 @@ Agente SDR que atende e qualifica leads no WhatsApp, com **API dedicada + dashbo
 
 ---
 
-### 🛍️ Style Moreira Modas — agente de vendas + correção de tracking
+### 🛍️ Agente de vendas + correção de tracking para e-commerce de moda
 > *Problema:* eventos de conversão duplicados/perdidos e atendimento manual sobrecarregado.
 
 - **Agente de vendas com IA** no n8n consultando uma base de produtos no Supabase
@@ -61,28 +59,28 @@ Agente SDR que atende e qualifica leads no WhatsApp, com **API dedicada + dashbo
 
 ---
 
-### 🔥 Decore Casa — robô de ofertas para grupo VIP
-Automação no n8n que busca ofertas em **Mercado Livre, Shopee, Amazon e Nuvemshop** e publica automaticamente em um grupo VIP de WhatsApp.
+### 🔥 Robô de ofertas para grupo VIP no WhatsApp
+Automação no n8n que busca ofertas em **Mercado Livre, Shopee, Amazon e Nuvemshop** e publica automaticamente em um grupo VIP de WhatsApp de uma loja de decoração.
 
 `n8n` `OAuth2` `APIs de marketplaces` `WhatsApp`
 
 ---
 
-### 🛋️ Zoze Home Decor — padrão de SEO para catálogo
-Framework editorial de **título SEO, meta description e descrição de produto** para uma loja de móveis premium na Nuvemshop, com regras anti-canibalização (termo de volume na categoria, long tail no produto) e entrega em HTML pronto para o editor.
+### 🛋️ Padrão de SEO para catálogo de móveis
+Framework editorial de **título SEO, meta description e descrição de produto** para loja de móveis premium na Nuvemshop, com regras anti-canibalização (termo de volume na categoria, long tail no produto) e entrega em HTML pronto para o editor.
 
 `SEO on-page` `Nuvemshop` `Copywriting`
 
 ---
 
-### 🧪 Projetos paralelos
+### 🧪 Outros projetos
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| **Império Skins** | Plataforma de sorteios de skins de CS2 com Pixel + CAPI | Web · Meta CAPI · Cloudflare |
-| **NOX Streaming** | SaaS white-label com pipeline de geração de assets visuais | Node.js · Playwright · TMDB API · PostgreSQL |
-| **Google Ads MCP** | Servidor MCP para operar Google Ads a partir do Claude Code | MCP · Google Ads API |
-| **Segundo Cérebro** | Cofre Obsidian como memória de longo prazo para agentes de código (lê antes, registra depois) | Obsidian · Claude Code · Codex |
+| O que é | Stack |
+|---|---|
+| Plataforma de sorteios para o nicho de games, com Pixel + CAPI | Web · Meta CAPI · Cloudflare |
+| SaaS white-label de streaming com pipeline automático de geração de assets visuais | Node.js · Playwright · TMDB API · PostgreSQL |
+| Servidor MCP para operar Google Ads a partir do Claude Code | MCP · Google Ads API |
+| Base de conhecimento em Obsidian como memória de longo prazo para agentes de código (lê antes, registra depois) | Obsidian · Claude Code · Codex |
 
 ---
 
@@ -91,10 +89,10 @@ Framework editorial de **título SEO, meta description e descrição de produto*
 Toda a operação roda em uma VPS própria orquestrada com Docker Swarm:
 
 ```
-Traefik (TLS) ─┬─ n8n            (automações)
-               ├─ Chatwoot       (atendimento)
-               ├─ Evolution API  (WhatsApp)
-               ├─ atribui        (SaaS)
+Traefik (TLS) ─┬─ n8n                (automações)
+               ├─ Chatwoot           (atendimento)
+               ├─ Evolution API      (WhatsApp)
+               ├─ SaaS de atribuição
                ├─ SDR API + Dashboard
                └─ Portainer
 Serviços: PostgreSQL · Redis · RabbitMQ
